@@ -1,5 +1,7 @@
 # Wine-Quality-Prediction-App (In Progress)
-This repository contains all the data and code used to build a machine learning web app that predicts wine quality based on its physicochemical qualities. 
+This repository contains all the data and code used to build a machine learning web app that predicts wine quality based on its physicochemical qualities.
+
+Kaggle notebook outlining the prediction model building process is available [here]().
 
 Files (Pending)
 -----
