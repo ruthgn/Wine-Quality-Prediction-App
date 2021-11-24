@@ -18,7 +18,7 @@ SPARKLE_EMOJI_URL = "https://img.charactermap.one/google/android-11/512px/2728.p
 
 # Set page title and favicon.
 st.set_page_config(
-    page_title="Wine Quality Predictor", page_icon=WINE_EMOJI_URL,
+    page_title="Wine Quality Score Generator", page_icon=WINE_EMOJI_URL,
 )
 
 ## Main Panel
@@ -26,7 +26,7 @@ st.set_page_config(
 st.image([SPARKLE_EMOJI_URL, WINE_EMOJI_URL, SPARKLE_EMOJI_URL], width=80)
 
 st.write("""
-# Wine Quality Predictor
+# Wine Quality Score Generator
 
 Predict the quality of wine based on its physicochemical attributes with this app!
 
