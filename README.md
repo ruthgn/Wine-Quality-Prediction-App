@@ -6,7 +6,7 @@ This repository contains all the data and code used to build a machine learning 
 
 Kaggle notebook outlining the prediction model building process is available [here](https://www.kaggle.com/ruthgn/predicting-wine-quality-deep-learning-approach).
 
-Files (Pending)
+Files
 -----
 * Trained Keras model generating predictions on the app (/my_model).
 * Dataset for model training—originally from the [*Vinho Verde* wine dataset](https://www.kaggle.com/ruthgn/wine-quality-data-set-red-white-wine) (/data/train.csv).
