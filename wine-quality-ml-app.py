@@ -249,4 +249,4 @@ else:
     st.table(array_prediction.style.format({"Wine Score": "{:.1f}"}))
 
 st.write('---')
-st.caption("Complete code and training data available in the [project Github repository](https://github.com/ruthgn/Wine-Quality-Prediction-App).")
+st.caption("Ran into a bug or saw something on the app that needs to be improved? Submit a [Github issue](https://github.com/ruthgn/Wine-Quality-Prediction-App/issues) or [fork the repository](https://github.com/ruthgn/Wine-Quality-Prediction-App) to create a pull request.")
