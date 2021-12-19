@@ -36,7 +36,7 @@ st.caption("by [Ruth G. N.](https://www.linkedin.com/in/ruthgn/)")
 
 """
 [![Follow](https://img.shields.io/twitter/follow/RuthInData?style=social)](https://www.twitter.com/RuthInData)
-&nbsp[![Fork](https://img.shields.io/github/forks/ruthgn/Wine-Quality-Prediction-App.svg?logo=github&style=social)](https://github.com/ruthgn/Wine-Quality-Prediction-App)
+&nbsp[![Star](https://img.shields.io/github/stars/ruthgn/Wine-Quality-Prediction-App.svg?logo=github&style=social)](https://github.com/ruthgn/Wine-Quality-Prediction-App/stargazers)
 """
 
 ## Sidebar
