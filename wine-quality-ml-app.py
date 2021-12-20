@@ -34,7 +34,7 @@ st.caption("by [Ruth G. N.](https://www.linkedin.com/in/ruthgn/)")
 
 """
 [![Follow](https://img.shields.io/twitter/follow/RuthInData?style=social)](https://www.twitter.com/RuthInData)
-&nbsp[![Fork](https://img.shields.io/github/forks/ruthgn/Wine-Quality-Prediction-App.svg?logo=github&style=social)](https://github.com/ruthgn/Wine-Quality-Prediction-App)
+&nbsp[![Star](https://img.shields.io/github/stars/ruthgn/Wine-Quality-Prediction-App.svg?logo=github&style=social)](https://github.com/ruthgn/Wine-Quality-Prediction-App/stargazers)
 """
 
 ## Sidebar
@@ -59,8 +59,7 @@ st.sidebar.markdown("----")
 st.sidebar.header('Background')
 
 st.sidebar.markdown("""
-So much about wine making remains elusive. Winemakers, connoisseurs, and scientists have greatly contributed their expertise to the process, but there is still more to be discovered about the art and science of winemaking. 
-This project was built to gain a better understanding of what makes a good quality or bad quality wine according to wine experts' taste-buds and mimick their decision-making process in scoring wine quality.
+So much about wine making remains elusive. Winemakers, connoisseurs, and scientists have greatly contributed their expertise to the process, though there is still more to be discovered about the art and science of winemaking. This project was built to gain a better understanding of what makes a good or bad wine according to wine experts' taste-buds and mimick their decision-making process in assessing wine quality.
 """)
 st.sidebar.markdown("----")
 
@@ -247,4 +246,4 @@ else:
     st.table(array_prediction.style.format({"Wine Score": "{:.1f}"}))
 
 st.write('---')
-st.caption("Complete code and training data available in the [project Github repository](https://github.com/ruthgn/Wine-Quality-Prediction-App).")
+st.caption("Ran into a bug or saw something on the app that needs to be improved? Submit a [Github issue](https://github.com/ruthgn/Wine-Quality-Prediction-App/issues) or [fork the repository](https://github.com/ruthgn/Wine-Quality-Prediction-App) to create a pull request.")
