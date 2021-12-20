@@ -1,4 +1,6 @@
-# Wine-Quality-Prediction-App
+<h1 align="center">
+    Wine Quality Score Generator 
+</h1>
 
 Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/wine-quality-prediction-app/main/wine-quality-ml-app.py)
 
