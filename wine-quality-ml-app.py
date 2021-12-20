@@ -61,8 +61,7 @@ st.sidebar.markdown("----")
 st.sidebar.header('Background')
 
 st.sidebar.markdown("""
-So much about wine making remains elusive. Winemakers, connoisseurs, and scientists have greatly contributed their expertise to the process, but there is still more to be discovered about the art and science of winemaking. 
-This project was built to gain a better understanding of what makes a good quality or bad quality wine according to wine experts' taste-buds and mimick their decision-making process in scoring wine quality.
+So much about wine making remains elusive. Winemakers, connoisseurs, and scientists have greatly contributed their expertise to the process, though there is still more to be discovered about the art and science of winemaking. This project was built to gain a better understanding of what makes a good or bad wine according to wine experts' taste-buds and mimick their decision-making process in assessing wine quality.
 """)
 st.sidebar.markdown("----")
 
