@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-#import matplotlib.pyplot as plt
-#import shap
 
 from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 from sklearn.compose import make_column_transformer

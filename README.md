@@ -1,10 +1,26 @@
 # Wine-Quality-Prediction-App
 
-Access the demo → https://share.streamlit.io/ruthgn/wine-quality-prediction-app/main/wine-quality-ml-app.py
+Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/wine-quality-prediction-app/main/wine-quality-ml-app.py)
 
-This repository contains all the data and code used to build a machine learning web app that predicts wine quality based on its physicochemical qualities.
+This app generates wine quality score based on its physicochemical qualities.
+
+This app shows you how to visualize and analyze explainable AI (xAI) models with Dash and IBM's AI Explainability 360 (AIX360). It uses a LogisticRuleRegression model trained on the UCI Heart Disease data set for predicting the presence of heart disease in Cleveland patients.
 
 Kaggle notebook outlining the prediction model building process is available [here](https://www.kaggle.com/ruthgn/predicting-wine-quality-deep-learning-approach).
+
+
+
+## Motivation
+
+## Model
+
+## Data Set Description
+
+## Running The App Locally
+
+## License
+
+
 
 Files
 -----
